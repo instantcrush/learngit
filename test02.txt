@@ -1,3 +1,4 @@
 git 简称含义
 U--Untracked
 M--Modified
+X--错误
