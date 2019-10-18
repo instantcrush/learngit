@@ -1,0 +1,3 @@
+git 简称含义
+U--Untracked
+M--
