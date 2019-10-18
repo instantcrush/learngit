@@ -2,3 +2,4 @@ git 简称含义
 U--Untracked
 M--Modified
 X--错误
+修改不使用 add 直接 commit 不会加入到修改中
