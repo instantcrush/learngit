@@ -5,4 +5,9 @@ git is free software
 r u ok
 yes im ok
 继续修改
+<<<<<<< HEAD
 创建一个新的分支很简单
+=======
+hello b1
+>>>>>>> b1
+
